@@ -8,6 +8,7 @@ public class LaunchIEBrowser {
         System.setProperty("webdriver.ie.driver","C:\\Users\\Nainakanti\\lib\\IEdriverServer.exe");
         WebDriver driver=new InternetExplorerDriver();
         driver.get("http://www.Selenium.org.com");
+      System.out.println("this is the updated code to check wether it is working or not");
 
     }
 }
