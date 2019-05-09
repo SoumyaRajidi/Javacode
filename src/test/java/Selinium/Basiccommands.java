@@ -21,6 +21,8 @@ public class Basiccommands {
         System.out.println("Title :"+driver.getTitle());
         System.out.println("url :"+driver.getCurrentUrl());
         driver.quit(); //it quits all the windows which are opened in the main window
+        System.out.println("check repositories changes");
+         
 
 
     }
