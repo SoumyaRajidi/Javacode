@@ -11,7 +11,6 @@ public class Arrays {
      for(int i=0;i<empid.length; i++) {
     	 empid[i]="classss"+i;
     	 System.out.println(empid[i]);
-         System.out.println("checking the git repository");
     	    // }
     	 
      }
