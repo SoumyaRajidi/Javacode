@@ -10,7 +10,7 @@ public class Method1 {
 		static void getSumofTwoNumbers(int i,String s) {
 			
 			System.out.println(i);
-			System.out.println(s);
+
 			
 		}
 
