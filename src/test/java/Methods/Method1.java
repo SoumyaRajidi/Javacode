@@ -11,7 +11,7 @@ public class Method1 {
 			
 			System.out.println(i);
 
-			System.out.println(s);
+			System.out.println(j);
 		}
 
 	}
